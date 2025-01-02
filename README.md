@@ -1,0 +1,1 @@
+Document for my daily use

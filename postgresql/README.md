@@ -1,0 +1,7 @@
+# DOCUMENTATION FOR POSTGRESQL
+
+## Xóa hết database
+
+```bash
+TRUNCATE TABLE blocks RESTART IDENTITY CASCADE;
+```
